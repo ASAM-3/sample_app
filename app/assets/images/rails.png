@@ -1,0 +1,11 @@
+--2014-08-10 03:11:00--  http://rubyonrails.org/images/rails.png
+Resolving rubyonrails.org... 185.31.18.133, 185.31.18.133
+Connecting to rubyonrails.org|185.31.18.133|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13036 (13K) [image/png]
+Saving to: “rails.png”
+
+     0K .......... ..                                         100% 11.3M=0.001s
+
+2014-08-10 03:11:01 (11.3 MB/s) - “rails.png” saved [13036/13036]
+
